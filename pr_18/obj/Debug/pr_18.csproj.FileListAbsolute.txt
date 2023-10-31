@@ -1,0 +1,8 @@
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\pr_18\obj\Debug\pr_18.csproj.AssemblyReference.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\pr_18\obj\Debug\pr_18.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\pr_18\obj\Debug\pr_18.csproj.CoreCompileInputs.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\pr_18\bin\Debug\pr_18.exe.config
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\pr_18\bin\Debug\pr_18.exe
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\pr_18\bin\Debug\pr_18.pdb
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\pr_18\obj\Debug\pr_18.exe
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\pr_18\obj\Debug\pr_18.pdb

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PR_17\PR_17\bin\Debug\PR_17.exe.config
+C:\Users\User\source\repos\PR_17\PR_17\bin\Debug\PR_17.exe
+C:\Users\User\source\repos\PR_17\PR_17\bin\Debug\PR_17.pdb
+C:\Users\User\source\repos\PR_17\PR_17\obj\Debug\PR_17.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PR_17\PR_17\obj\Debug\PR_17.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PR_17\PR_17\obj\Debug\PR_17.exe
+C:\Users\User\source\repos\PR_17\PR_17\obj\Debug\PR_17.pdb
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_17--main\PR_17\bin\Debug\PR_17.exe.config
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_17--main\PR_17\bin\Debug\PR_17.exe
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_17--main\PR_17\bin\Debug\PR_17.pdb
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_17--main\PR_17\obj\Debug\PR_17.csproj.AssemblyReference.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_17--main\PR_17\obj\Debug\PR_17.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_17--main\PR_17\obj\Debug\PR_17.csproj.CoreCompileInputs.cache
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_17--main\PR_17\obj\Debug\PR_17.exe
+D:\Users\1213-14\Documents\2-ИСП\Основы программирования\Погудин\PR_17--main\PR_17\obj\Debug\PR_17.pdb
